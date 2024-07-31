@@ -108,9 +108,12 @@
   height: 280px;
 }
 
+.grid {
+  justify-content: center;
+}
+
 .gridItem1 {
   justify-content: center;
-  /* text-align: right; */
 }
 
 .gridItem2 {

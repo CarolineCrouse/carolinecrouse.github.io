@@ -41,8 +41,8 @@ export default function App() {
         <Container
           className="container fadeAndSlideIn"
         >
-          <Grid container spacing={2}>
-            <Grid item xs className="gridItem1">
+          <Grid container spacing={1} className="grid">
+            <Grid item className="gridItem1">
               <Typography
                 variant="h2"
                 className="headerText rainbowTextHover"
@@ -53,7 +53,7 @@ export default function App() {
                 one day i will think of something to put here but for now here is nyan cat
               </Typography>
             </Grid>
-            <Grid item xs className="gridItem2">
+            <Grid item className="gridItem2">
               <img
                 src="/images/nyangif.gif"
                 alt="nyancat"
