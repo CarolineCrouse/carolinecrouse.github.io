@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/carolinecrouse.github.io/static/css/main.5599f162.css",
-    "main.js": "/carolinecrouse.github.io/static/js/main.7efaf1ef.js",
-    "index.html": "/carolinecrouse.github.io/index.html",
-    "main.5599f162.css.map": "/carolinecrouse.github.io/static/css/main.5599f162.css.map",
-    "main.7efaf1ef.js.map": "/carolinecrouse.github.io/static/js/main.7efaf1ef.js.map"
+    "main.css": "/static/css/main.5599f162.css",
+    "main.js": "/static/js/main.7efaf1ef.js",
+    "index.html": "/index.html",
+    "main.5599f162.css.map": "/static/css/main.5599f162.css.map",
+    "main.7efaf1ef.js.map": "/static/js/main.7efaf1ef.js.map"
   },
   "entrypoints": [
     "static/css/main.5599f162.css",
